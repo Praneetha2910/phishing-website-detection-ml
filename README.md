@@ -66,6 +66,18 @@ phishing-website-detection-ml/
 - BENIGN / LEGITIMATE URL
 - MALICIOUS / PHISHING URL
 
+- ## Screenshots
+
+### Legitimate URL Detection
+![Benign URL Test]
+<img width="1920" height="1080" alt="imagesbenign-test png" src="https://github.com/user-attachments/assets/eb442846-6d0b-4fbf-8a5d-3e0dce032d09" />
+
+
+### Malicious URL Detection
+![Malicious URL Test]
+<img width="1920" height="1080" alt="imagesmalicious-test png" src="https://github.com/user-attachments/assets/f73e5f1c-95b8-4ac8-94aa-dc11b382ac70" />
+
+
 ## Future Improvements
 - Use live URL reputation APIs
 - Add website content-based phishing detection
